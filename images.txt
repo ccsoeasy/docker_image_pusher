@@ -13,4 +13,5 @@
 # langgenius/dify-web:0.10.2
 # langgenius/dify-api:0.10.2
 # langgenius/dify-sandbox:0.2.10
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+# nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+python:3.10
