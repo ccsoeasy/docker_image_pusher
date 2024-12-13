@@ -15,5 +15,6 @@
 # langgenius/dify-sandbox:0.2.10
 # nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
 # python:3.10
-ubuntu:20.04
+# ubuntu:20.04
+nvidia/cuda:12.4.1-runtime-ubuntu20.04
 
