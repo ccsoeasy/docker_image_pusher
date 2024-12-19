@@ -17,4 +17,5 @@
 # python:3.10
 # ubuntu:20.04
 # nvidia/cuda:12.4.1-runtime-ubuntu20.04
-minio/minio:RELEASE.2024-12-13T22-19-12Z.fips
+# minio/minio:RELEASE.2024-12-13T22-19-12Z.fips
+openeuler/cann:8.0.RC1-oe2203sp4
