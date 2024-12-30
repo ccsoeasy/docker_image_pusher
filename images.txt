@@ -18,4 +18,11 @@
 # ubuntu:20.04
 # nvidia/cuda:12.4.1-runtime-ubuntu20.04
 # minio/minio:RELEASE.2024-12-13T22-19-12Z.fips
-openeuler/cann:8.0.RC1-oe2203sp4
+# openeuler/cann:8.0.RC1-oe2203sp4
+##########################DIFY ARM###########################
+--platform=linux/arm64 langgenius/dify-api:0.10.2
+--platform=linux/arm64 langgenius/dify-web:0.10.2
+--platform=linux/arm64/v8 postgres:15-alpine
+--platform=linux/arm64/v8 redis:6-alpine
+--platform=linux/arm64 langgenius/dify-sandbox:0.2.10
+--platform=linux/arm64/v8 ubuntu/squid:latest
