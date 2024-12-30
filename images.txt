@@ -20,9 +20,15 @@
 # minio/minio:RELEASE.2024-12-13T22-19-12Z.fips
 # openeuler/cann:8.0.RC1-oe2203sp4
 ##########################DIFY ARM###########################
---platform=linux/arm64 langgenius/dify-api:0.10.2
---platform=linux/arm64 langgenius/dify-web:0.10.2
---platform=linux/arm64/v8 postgres:15-alpine
---platform=linux/arm64/v8 redis:6-alpine
---platform=linux/arm64 langgenius/dify-sandbox:0.2.10
---platform=linux/arm64/v8 ubuntu/squid:latest
+# --platform=linux/arm64 langgenius/dify-api:0.10.2
+# --platform=linux/arm64 langgenius/dify-web:0.10.2
+# --platform=linux/arm64/v8 postgres:15-alpine
+# --platform=linux/arm64/v8 redis:6-alpine
+# --platform=linux/arm64 langgenius/dify-sandbox:0.2.10
+# --platform=linux/arm64/v8 ubuntu/squid:latest
+--platform=linux/arm64 certbot/certbot
+--platform=linux/arm64/v8 nginx:latest
+--platform=linux/arm64 semitechnologies/weaviate:1.19.0
+--platform=linux/arm64 langgenius/qdrant:v1.7.3
+--platform=linux/arm64 pgvector/pgvector
+--platform=linux/arm64 tensorchord/pgvecto-rs:pg16-v0.3.0
