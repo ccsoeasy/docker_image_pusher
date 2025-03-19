@@ -62,4 +62,5 @@
 # rabbitmq:management-alpine
 # nacos/nacos-server:latest
 
---platform=linux/arm64 ubuntu/python:3.10-22.04_stable
+# --platform=linux/arm64 ubuntu/python:3.10-22.04_stable
+--platform=linux/arm64 ubuntu/python:3.8-20.04_stable
