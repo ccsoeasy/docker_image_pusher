@@ -6,7 +6,7 @@
 # nvidia/cuda:12.3.1-devel-ubuntu20.04
 # nvidia/cuda:11.7.1-runtime-ubuntu20.04
 # nvidia/cuda:11.7.1-devel-ubuntu20.04
-# ollama/ollama:latest
+ollama/ollama:latest
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
 # xprobe/xinference
@@ -64,4 +64,4 @@
 
 # --platform=linux/arm64 ubuntu/python:3.10-22.04_stable
 # --platform=linux/arm64 ubuntu/python:3.8-20.04_stable
---platform=linux/arm64/v8 ubuntu:20.04
+# --platform=linux/arm64/v8 ubuntu:20.04
