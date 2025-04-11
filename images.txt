@@ -32,6 +32,21 @@
 # --platform=linux/arm64 langgenius/qdrant:v1.7.3
 # --platform=linux/arm64 pgvector/pgvector
 # --platform=linux/arm64 tensorchord/pgvecto-rs:pg16-v0.3.0
+#############################################################
+--platform=linux/arm64 langgenius/dify-api:1.2.0
+--platform=linux/arm64 langgenius/dify-web:1.2.0
+# --platform=linux/arm64/v8 postgres:15-alpine
+--platform=linux/arm64 langgenius/dify-sandbox:0.2.11
+--platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.7-local
+# --platform=linux/arm64/v8 ubuntu/squid:latest
+# --platform=linux/arm64 certbot/certbot
+# --platform=linux/arm64/v8 nginx:latest
+# --platform=linux/arm64 semitechnologies/weaviate:1.19.0
+# --platform=linux/arm64 langgenius/qdrant:v1.7.3
+
+
+
+
 
 # langgenius/dify-api:0.15.3
 # langgenius/dify-web:0.15.3
@@ -58,7 +73,7 @@
 # docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 # docker.elastic.co/kibana/kibana:8.14.3
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
+###################################################################
 # rabbitmq:management-alpine
 # nacos/nacos-server:latest
 
@@ -66,4 +81,4 @@
 # --platform=linux/arm64 ubuntu/python:3.8-20.04_stable
 # --platform=linux/arm64/v8 ubuntu:20.04
 
-qwenllm/qwenvl:2.5-cu121
+# qwenllm/qwenvl:2.5-cu121
