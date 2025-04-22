@@ -45,7 +45,7 @@
 # --platform=linux/arm64 langgenius/qdrant:v1.7.3
 ###########################################################
 # --platform=linux/arm64 langgenius/dify-api:0.15.3
---platform=linux/arm64 langgenius/dify-web:0.15.3
+# --platform=linux/arm64 langgenius/dify-web:0.15.3
 # --platform=linux/arm64/v8 postgres:15-alpine
 # --platform=linux/arm64/v8 redis:6-alpine
 # --platform=linux/arm64 langgenius/dify-sandbox:0.2.10
@@ -91,3 +91,7 @@
 # --platform=linux/arm64/v8 ubuntu:20.04
 
 # qwenllm/qwenvl:2.5-cu121
+
+
+###################################################################
+milvusdb/milvus:v2.5.10
