@@ -95,5 +95,6 @@
 
 ###################################################################
 # milvusdb/milvus:v2.5.10
-flannel/flannel:v0.26.7
+# flannel/flannel:v0.26.7
+flannel/flannel-cni-plugin:v1.6.2-flannel1
 
