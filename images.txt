@@ -97,7 +97,9 @@
 # milvusdb/milvus:v2.5.10
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
+#############################K8S###################################
 
 # gmoney23/nfs-client-provisioner:latest
 # alpine:3.8
-busybox:1.31.1
+# busybox:1.31.1
+mysql:5.7.30
