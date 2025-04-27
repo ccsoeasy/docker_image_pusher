@@ -97,5 +97,5 @@
 # milvusdb/milvus:v2.5.10
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
-quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
+gmoney23/nfs-client-provisioner:latest
 
