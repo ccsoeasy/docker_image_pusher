@@ -104,3 +104,5 @@
 # busybox:1.31.1
 # mysql:5.7.30
 milvusdb/milvus:1.1.1-cpu-d061621-330cc6
+milvusdb/mishards:1.1.1
+milvusdb/milvus-em:v0.4.3
