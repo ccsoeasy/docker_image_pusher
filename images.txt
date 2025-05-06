@@ -9,7 +9,7 @@
 # ollama/ollama:latest
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
-# xprobe/xinference
+xprobe/xinference:latest
 # langgenius/dify-web:0.10.2
 # langgenius/dify-api:0.10.2
 # langgenius/dify-sandbox:0.2.10
@@ -103,6 +103,6 @@
 # alpine:3.8
 # busybox:1.31.1
 # mysql:5.7.30
-milvusdb/milvus:1.1.1-cpu-d061621-330cc6
-milvusdb/mishards:1.1.1
-milvusdb/milvus-em:v0.4.3
+# milvusdb/milvus:1.1.1-cpu-d061621-330cc6
+# milvusdb/mishards:1.1.1
+# milvusdb/milvus-em:v0.4.3
