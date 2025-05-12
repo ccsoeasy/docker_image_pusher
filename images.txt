@@ -10,7 +10,10 @@
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
 # xprobe/xinference:latest
-xprobe/xinference:v0.16.0
+# xprobe/xinference:v0.16.0
+
+# 用于推流
+tiangolo/nginx-rtmp:latest
 
 # langgenius/dify-web:0.10.2
 # langgenius/dify-api:0.10.2
