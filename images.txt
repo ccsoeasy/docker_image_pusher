@@ -6,6 +6,10 @@
 # nvidia/cuda:12.3.1-devel-ubuntu20.04
 # nvidia/cuda:11.7.1-runtime-ubuntu20.04
 # nvidia/cuda:11.7.1-devel-ubuntu20.04
+# nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+# nvidia/cuda:12.4.1-runtime-ubuntu20.04
+nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04
+
 # ollama/ollama:latest
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
@@ -13,15 +17,14 @@
 # xprobe/xinference:v0.16.0
 
 # 用于推流
-tiangolo/nginx-rtmp:latest
+# tiangolo/nginx-rtmp:latest
 
 # langgenius/dify-web:0.10.2
 # langgenius/dify-api:0.10.2
 # langgenius/dify-sandbox:0.2.10
-# nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+
 # python:3.10
 # ubuntu:20.04
-# nvidia/cuda:12.4.1-runtime-ubuntu20.04
 # minio/minio:RELEASE.2024-12-13T22-19-12Z.fips
 # openeuler/cann:8.0.RC1-oe2203sp4
 ##########################DIFY ARM###########################
