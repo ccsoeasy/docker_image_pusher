@@ -9,7 +9,7 @@
 # nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
 # nvidia/cuda:12.4.1-runtime-ubuntu20.04
 # nvidia/cuda:11.4.3-cudnn8-devel-ubuntu20.04
-
+nvidia/cuda:12.0.1-cudnn8-devel-ubuntu20.04
 
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
@@ -115,4 +115,4 @@
 # milvusdb/mishards:1.1.1
 # milvusdb/milvus-em:v0.4.3
 
-ollama/ollama:latest
+# ollama/ollama:latest
