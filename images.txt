@@ -120,4 +120,6 @@
 # ollama/ollama:latest
 
 # ghcr.io/huggingface/text-embeddings-inference:1.7
-milvusbootcamp/img-search-client:1.0
+# milvusbootcamp/img-search-client:1.0
+milvusbootcamp/img-search-server:2.0
+mysql:5.7
