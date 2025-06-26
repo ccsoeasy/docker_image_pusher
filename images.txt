@@ -83,9 +83,8 @@
 # ghcr.io/chroma-core/chroma:0.5.20
 # quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 # container-registry.oracle.com/database/free:latest
-# quay.io/coreos/etcd:v3.5.5
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
-# milvusdb/milvus:v2.5.0-beta
+
 # opensearchproject/opensearch:latest
 # opensearchproject/opensearch-dashboards:latest
 # myscale/myscaledb:1.6.4
@@ -94,6 +93,7 @@
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
 ###################################################################
 # rabbitmq:management-alpine
+
 # nacos/nacos-server:latest
 
 # --platform=linux/arm64 ubuntu/python:3.10-22.04_stable
@@ -102,29 +102,35 @@
 
 # qwenllm/qwenvl:2.5-cu121
 
-
-###################################################################
-# milvusdb/milvus:v2.5.10
-# flannel/flannel:v0.26.7
-# flannel/flannel-cni-plugin:v1.6.2-flannel1
-#############################K8S###################################
-
-# gmoney23/nfs-client-provisioner:latest
 # alpine:3.8
-# busybox:1.31.1
-# mysql:5.7.30
+
+soulteary/image-search-app:2.1.0
+###################################################################
+# milvusdb/milvus:v2.5.0-beta
+# milvusdb/milvus:v2.5.10
 # milvusdb/milvus:1.1.1-cpu-d061621-330cc6
 # milvusdb/mishards:1.1.1
 # milvusdb/milvus-em:v0.4.3
+# milvusbootcamp/img-search-client:1.0
+# milvusbootcamp/img-search-server:2.0
+# milvusbootcamp/img-search-server:2.2.10
+# milvusbootcamp/img-search-client:2.2.10
+# milvusdb/milvus:v2.5.13
+# milvusdb/milvus:v2.2.10
+
+# quay.io/coreos/etcd:v3.5.5
+
+# ghcr.io/huggingface/text-embeddings-inference:1.7
 
 # ollama/ollama:latest
 
-# ghcr.io/huggingface/text-embeddings-inference:1.7
-# milvusbootcamp/img-search-client:1.0
-# milvusbootcamp/img-search-server:2.0
-milvusbootcamp/img-search-server:2.2.10
-milvusbootcamp/img-search-client:2.2.10
+# busybox:1.31.1
+
+# gmoney23/nfs-client-provisioner:latest
+
+
+# mysql:5.7.30
 # mysql:5.7
-# milvusdb/milvus:v2.5.13
-milvusdb/milvus:v2.2.10
-quay.io/coreos/etcd:v3.5.5
+
+# flannel/flannel:v0.26.7
+# flannel/flannel-cni-plugin:v1.6.2-flannel1
