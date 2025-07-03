@@ -104,7 +104,7 @@
 
 # alpine:3.8
 
-soulteary/image-search-app:2.1.0
+# soulteary/image-search-app:2.1.0
 ###################################################################
 # milvusdb/milvus:v2.5.0-beta
 # milvusdb/milvus:v2.5.10
@@ -134,3 +134,5 @@ soulteary/image-search-app:2.1.0
 
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
+
+linzeyi/hivision_idphotos
