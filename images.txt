@@ -135,4 +135,5 @@
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
 
-linzeyi/hivision_idphotos
+# linzeyi/hivision_idphotos
+serengil/deepface
