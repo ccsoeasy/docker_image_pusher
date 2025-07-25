@@ -15,7 +15,7 @@
 
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
-# xprobe/xinference:latest
+xprobe/xinference:latest
 # xprobe/xinference:v0.16.0
 
 # 用于推流
@@ -136,4 +136,4 @@
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
 
 # linzeyi/hivision_idphotos
-serengil/deepface
+# serengil/deepface
