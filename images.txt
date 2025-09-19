@@ -15,7 +15,7 @@
 
 # langgenius/dify-web:0.8.2
 # opensearchproject/opensearch-dashboards:latest
-xprobe/xinference:latest
+# xprobe/xinference:latest
 # xprobe/xinference:v0.16.0
 
 # 用于推流
@@ -133,7 +133,7 @@ xprobe/xinference:latest
 
 # ghcr.io/huggingface/text-embeddings-inference:1.7
 
-# ollama/ollama:latest
+ollama/ollama:latest
 
 # busybox:1.31.1
 
