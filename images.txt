@@ -132,7 +132,7 @@
 # quay.io/coreos/etcd:v3.5.18
 
 # ghcr.io/huggingface/text-embeddings-inference:1.7
-
+################################# ollama ###############################
 ollama/ollama:latest
 
 # busybox:1.31.1
