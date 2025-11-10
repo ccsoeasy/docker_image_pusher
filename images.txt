@@ -133,7 +133,7 @@
 
 # ghcr.io/huggingface/text-embeddings-inference:1.7
 ################################# ollama ###############################
-ollama/ollama:latest
+# ollama/ollama:latest
 
 # busybox:1.31.1
 
@@ -148,3 +148,5 @@ ollama/ollama:latest
 
 # linzeyi/hivision_idphotos
 # serengil/deepface
+
+qwenllm/qwenvl:qwen3vl-cu128
