@@ -149,4 +149,6 @@
 # linzeyi/hivision_idphotos
 # serengil/deepface
 
-qwenllm/qwenvl:qwen3vl-cu128
+# qwenllm/qwenvl:qwen3vl-cu128
+
+filesite/machete
