@@ -151,4 +151,4 @@
 
 # qwenllm/qwenvl:qwen3vl-cu128
 
-filesite/machete:samba
+filesite/machete
