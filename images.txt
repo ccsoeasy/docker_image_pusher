@@ -151,4 +151,5 @@
 
 # qwenllm/qwenvl:qwen3vl-cu128
 
-filesite/machete
+# filesite/machete
+photoprism/photoprism:latest
