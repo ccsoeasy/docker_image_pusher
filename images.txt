@@ -162,5 +162,6 @@
 # linuxserver/wikijs
 # linuxserver/bookstack
 # linuxserver/babybuddy
-codercom/code-server:latest
-node:18-alpine
+# codercom/code-server:latest
+# node:18-alpine
+linuxserver/openvscode-server
