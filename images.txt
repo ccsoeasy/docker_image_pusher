@@ -164,4 +164,5 @@
 # linuxserver/babybuddy
 # codercom/code-server:latest
 # node:18-alpine
-linuxserver/openvscode-server
+# linuxserver/openvscode-server
+vllm/vllm-openai
