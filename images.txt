@@ -167,4 +167,5 @@
 # linuxserver/openvscode-server
 # vllm/vllm-openai
 
-benweet/stackedit
+# benweet/stackedit
+linuxserver/code-server:latest
