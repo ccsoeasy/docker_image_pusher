@@ -171,4 +171,5 @@
 # benweet/stackedit
 # linuxserver/code-server:latest
 
-ghost:latest
+# ghost:latest
+triliumnext/trilium:latest
