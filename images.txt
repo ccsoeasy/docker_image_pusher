@@ -165,4 +165,6 @@
 # codercom/code-server:latest
 # node:18-alpine
 # linuxserver/openvscode-server
-vllm/vllm-openai
+# vllm/vllm-openai
+
+ghcr.io/benweet/stackedit:latest
