@@ -172,4 +172,5 @@
 # linuxserver/code-server:latest
 
 # ghost:latest
-triliumnext/trilium:latest
+# triliumnext/trilium:latest
+nriver/trilium-cn
