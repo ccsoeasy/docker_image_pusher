@@ -167,4 +167,4 @@
 # linuxserver/openvscode-server
 # vllm/vllm-openai
 
-ghcr.io/benweet/stackedit:latest
+
