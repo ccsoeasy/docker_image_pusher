@@ -174,5 +174,5 @@
 # ghost:latest
 # triliumnext/trilium:latest
 # nriver/trilium-cn
-jdreinhardt/dailynotes
-# joyqi/typecho
+# jdreinhardt/dailynotes
+joyqi/typecho:nightly-php8.2-apache
