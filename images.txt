@@ -174,5 +174,5 @@
 # ghost:latest
 # triliumnext/trilium:latest
 # nriver/trilium-cn
-hellodhlyn/dailynotes:latest
+jdreinhardt/dailynotes:latest
 joyqi/typecho:latest
