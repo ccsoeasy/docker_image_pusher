@@ -172,7 +172,8 @@
 # linuxserver/code-server:latest
 
 # ghost:latest
-ghost:6
+# ghost:6
+ghost:6-alpine
 # triliumnext/trilium:latest
 # nriver/trilium-cn
 # jdreinhardt/dailynotes
