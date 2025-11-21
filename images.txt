@@ -172,8 +172,9 @@
 # linuxserver/code-server:latest
 
 # ghost:latest
+ghost:6
 # triliumnext/trilium:latest
 # nriver/trilium-cn
 # jdreinhardt/dailynotes
-m0ngr31/dailynotes
+# m0ngr31/dailynotes
 # joyqi/typecho:nightly-php8.2-apache
