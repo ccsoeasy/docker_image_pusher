@@ -179,4 +179,4 @@
 # jdreinhardt/dailynotes
 # m0ngr31/dailynotes
 # joyqi/typecho:nightly-php8.2-apache
-florider89/joplin-server:latest
+linuxserver/joplin:latest
