@@ -173,9 +173,10 @@
 
 # ghost:latest
 # ghost:6
-ghost:6-alpine
+# ghost:6-alpine
 # triliumnext/trilium:latest
 # nriver/trilium-cn
 # jdreinhardt/dailynotes
 # m0ngr31/dailynotes
 # joyqi/typecho:nightly-php8.2-apache
+florider89/joplin-server:latest
