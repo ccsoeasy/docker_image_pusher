@@ -143,7 +143,7 @@
 
 # mysql:5.7.30
 # mysql:5.7
-
+mysql:8.0
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
 
@@ -180,4 +180,4 @@
 # m0ngr31/dailynotes
 # joyqi/typecho:nightly-php8.2-apache
 # linuxserver/joplin:latest
-xhenxhe/dailynotes
+# xhenxhe/dailynotes
