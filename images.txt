@@ -140,10 +140,10 @@
 
 # gmoney23/nfs-client-provisioner:latest
 
-
+lscr.io/linuxserver/mariadb
 # mysql:5.7.30
 # mysql:5.7
-mysql:8.0
+# mysql:8.0
 # flannel/flannel:v0.26.7
 # flannel/flannel-cni-plugin:v1.6.2-flannel1
 
