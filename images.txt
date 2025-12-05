@@ -128,7 +128,7 @@
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
 # minio/minio:RELEASE.2024-12-18T13-15-44Z
 # minio/minio:latest
---platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
+# minio/minio:RELEASE.2025-09-07T16-13-09Z
 # quay.io/coreos/etcd:v3.5.5
 # quay.io/coreos/etcd:v3.5.18
 
