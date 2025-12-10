@@ -28,7 +28,7 @@
 
 # python:3.10
 # ubuntu:20.04
---platform=linux/arm64/v8 ubuntu:20.04
+# --platform=linux/arm64/v8 ubuntu:20.04
 # openeuler/cann:8.0.RC1-oe2203sp4
 ##########################DIFY ARM###########################
 # --platform=linux/arm64 langgenius/dify-api:0.10.2
