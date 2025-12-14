@@ -182,3 +182,4 @@
 # joyqi/typecho:nightly-php8.2-apache
 # linuxserver/joplin:latest
 # xhenxhe/dailynotes
+mayswind/ezbookkeeping
