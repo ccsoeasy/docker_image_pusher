@@ -132,6 +132,8 @@
 # --platform linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
 # quay.io/coreos/etcd:v3.5.5
 # quay.io/coreos/etcd:v3.5.18
+############################# nacos #####################################
+nacos/nacos-server:2.1.1
 
 # ghcr.io/huggingface/text-embeddings-inference:1.7
 ################################# ollama ###############################
@@ -182,4 +184,4 @@
 # joyqi/typecho:nightly-php8.2-apache
 # linuxserver/joplin:latest
 # xhenxhe/dailynotes
-mayswind/ezbookkeeping
+# mayswind/ezbookkeeping
